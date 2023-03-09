@@ -22,7 +22,7 @@
   
   <a href="https://www.linkedin.com/in/yooniyoon" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat&logoColor=white"/></a>
     <a href="https://yoonikjyoon.github.io/yooni-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ccccff?style=flat"/></a> 
-    <a href="ailto:yoonikjyoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=flat&logoColor=white"/></a> 
+    <a href="mailto:yoonikjyoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=flat&logoColor=white"/></a> 
   <br />
 </div>
 <br />
