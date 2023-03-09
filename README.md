@@ -20,9 +20,9 @@
   <br />  <br />
     <h4>🫧 more about me 🫧</h4>
   
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat&link=https://www.linkedin.com/in/yooniyoon)](https://www.linkedin.com/in/yooniyoon) 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ccccff?style=flat&link=https://yoonikjyoon.github.io/yooni-portfolio)](https://yoonikjyoon.github.io/yooni-portfolio) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=flat&logoColor=white&link=mailto:yoonikjyoon@gmail.com)](mailto:yoonikjyoon@gmail.com)
+  <a href="https://www.linkedin.com/in/yooniyoon" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat&logoColor=white"/></a>
+    <a href="https://yoonikjyoon.github.io/yooni-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ccccff?style=flat"/></a> 
+    <a href="ailto:yoonikjyoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=flat&logoColor=white"/></a> 
   <br />
 </div>
 <br />
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-&nbsp 
+
   <br />
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
