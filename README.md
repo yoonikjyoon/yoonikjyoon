@@ -13,16 +13,11 @@
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
   <br />
-    <br />
+  <br />
   <h4>🫧 currently learning 🫧</h4>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
-  <br />  <br />
-    <h4>🫧 more about me 🫧</h4>
-  
-  <a href="https://www.linkedin.com/in/yooniyoon" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&style=flat&logoColor=white"/></a>
-    <a href="https://yoonikjyoon.github.io/yooni-portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ccccff?style=flat"/></a> 
-    <a href="mailto:yoonikjyoon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&style=flat&logoColor=white"/></a> 
+   <br />
   <br />
 </div>
 <br />
